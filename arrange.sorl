@@ -1,6 +1,6 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2020/2/10
+; Date: 2020/2/11
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
 *.9bis.net
@@ -53,6 +53,7 @@
 *.hamreus.com
 *.ifixit.com
 *.ifttt.com
+*.imgur.com
 *.instagram-engineering.com
 *.javbus.com
 *.javlibrary.com
@@ -79,6 +80,7 @@
 *.rsshub.app
 *.scholarpedia.org
 *.scipy.org
+*.scmp.com
 *.sstatic.net
 *.stackexchange.com
 *.startpage.com
@@ -96,6 +98,7 @@
 *.user-images.githubusercontent.com
 *.uts.edu.au
 *.wikimedia.org
+*.wikipedia.org
 *.wiktionary.org
 *.windy.com
 *.wolfram.com
