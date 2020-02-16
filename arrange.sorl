@@ -3,8 +3,11 @@
 ; Date: 2020/2/11
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+*.177pic.info
+*.3gpp.org
 *.9bis.net
 *.9news.com.au
+*.aaai.org
 *.abc.net.au
 *.adnxs.com
 *.amazonaws.com
@@ -12,6 +15,7 @@
 *.anu.edu.au
 *.aqicn.org
 *.arxiv.org
+*.asahi.com
 *.aspnetcdn.com
 *.bbc.co.uk
 *.bbc.com
@@ -33,6 +37,7 @@
 *.fast.com
 *.fbcdn.net
 *.fontawesome.com
+*.getpocket.com
 *.ggpht.com
 *.github.com
 *.github.io
@@ -44,6 +49,7 @@
 *.googleapis.com
 *.googlesource.com
 *.googletagmanager.com
+*.googletagservices.com
 *.googleusercontent.com
 *.googlevideo.com
 *.grammarly.com
@@ -51,10 +57,13 @@
 *.gravatar.com
 *.gstatic.com
 *.hamreus.com
+*.i-scmp.com
 *.ifixit.com
 *.ifttt.com
 *.imgur.com
 *.instagram-engineering.com
+*.instagram.com
+*.itu.int
 *.javbus.com
 *.javlibrary.com
 *.jquery.com
@@ -67,8 +76,12 @@
 *.mathworks.com
 *.maying.co
 *.medium.com
+*.microsoft.com
 *.musi.sh
 *.nexitally.com
+*.nips.cc
+*.nyt.com
+*.nytimes.com
 *.openai.com
 *.overleaf.com
 *.phncdn.com
@@ -76,11 +89,13 @@
 *.playno1.com
 *.pornhub.com
 *.readthedocs.org
+*.reddit.com
 *.reimu.net
 *.rsshub.app
 *.scholarpedia.org
 *.scipy.org
 *.scmp.com
+*.ssl-images-amazon.com
 *.sstatic.net
 *.stackexchange.com
 *.startpage.com
@@ -88,14 +103,16 @@
 *.sympy.org
 *.t.co
 *.t.me
+*.taleo.net
 *.telegra.ph
 *.telegram.org
 *.telesco.pe
 *.tensorflow.org
+*.theverge.com
 *.twimg.com
 *.twitter.com
+*.typekit.net
 *.uraaka-joshi.com
-*.user-images.githubusercontent.com
 *.uts.edu.au
 *.wikimedia.org
 *.wikipedia.org
