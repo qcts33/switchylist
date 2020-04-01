@@ -1,6 +1,7 @@
 import copy
 
 import fire
+from tld import get_fld
 
 
 def build_from(file_name: str):
@@ -24,14 +25,16 @@ def wirte_sorl(head, body):
     with open("arrange.sorl", "w") as fp:
         for line in head:
             print(line, file=fp)
-        for line in sorted(set(body)):
-            print(line, file=fp)
+        url = (x.lstrip("*.") for x in body)
+        fld = (get_fld(x, fix_protocol=True) for x in url)
+        for line in sorted(set(fld)):
+            print(f"*.{line}", file=fp)
 
 
 def merge(file_name: str):
     head, body = load_sorl("arrange.sorl")
     with open(file_name) as fp:
-        new = [x.split()[0] for x in fp]
+        new = list(x.split()[0] for x in fp)
     wirte_sorl(head, body + new)
 
 
