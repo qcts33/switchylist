@@ -1,8 +1,9 @@
 [SwitchyOmega Conditions]
 ; Require: SwitchyOmega >= 2.3.2
-; Date: 2020/11/24
+; Date: 2021/03/23
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+*.117pic.info
 *.177pic.info
 *.1kkk.com
 *.1upkeyboards.com
@@ -23,6 +24,8 @@
 *.anaconda.org
 *.ansonchen.me
 *.anu.edu.au
+*.aospapps.com
+*.apkmirror.com
 *.appspot.com
 *.aqicn.org
 *.arcgis.com
@@ -40,18 +43,23 @@
 *.bit.ly
 *.blogger.com
 *.blogspot.com
+*.bootstrapcdn.com
 *.braintreegateway.com
 *.brazzers.com
 *.brazzerscontent.com
 *.btdig.com
 *.businessinsider.com
+*.caddyserver.com
 *.cal.new
 *.cdn77.org
 *.cdninstagram.com
 *.chasecdn.com
+*.chinafile.com
 *.chinasareview.com
 *.chromium.org
+*.clarivate.com
 *.clickme.net
+*.cloudflare.com
 *.cloudfront.net
 *.concert.io
 *.copyright.com
@@ -64,6 +72,7 @@
 *.dmm.co.jp
 *.dmm.com
 *.docker.com
+*.docs.rs
 *.dropbox.com
 *.dropboxcaptcha.com
 *.dropboxstatic.com
@@ -88,6 +97,7 @@
 *.geekhack.org
 *.getpocket.com
 *.ggpht.com
+*.gitbook.io
 *.github.blog
 *.github.com
 *.github.io
@@ -120,6 +130,9 @@
 *.hamreus.com
 *.haoshuang.site
 *.hcaptcha.com
+*.heroku.com
+*.herokucdn.com
+*.howtogeek.com
 *.i-scmp.com
 *.ifixit.com
 *.ifttt.com
@@ -130,6 +143,7 @@
 *.instagram.com
 *.itch.io
 *.itu.int
+*.iwara.tv
 *.javbus.com
 *.javdb.com
 *.javlibrary.com
@@ -138,6 +152,7 @@
 *.jhu.edu
 *.jquery.com
 *.keras.io
+*.lastpass.com
 *.libra.org
 *.licdn.com
 *.live.com
@@ -155,6 +170,7 @@
 *.musi.sh
 *.myworkday.com
 *.myworkdayjobs.com
+*.nature.com
 *.netcdn.space
 *.netflix.com
 *.nexitally.com
@@ -165,10 +181,13 @@
 *.notion.so
 *.nsw.gov.au
 *.nyt.com
+*.nytcn.me
 *.nytimes.com
+*.ohmyposh.dev
 *.onejav.com
 *.openai.com
 *.overleaf.com
+*.pendo.io
 *.perfdrive.com
 *.phncdn.com
 *.phprcdn.com
@@ -179,6 +198,7 @@
 *.pixiv.net
 *.playio1.com
 *.playno1.com
+*.poliastro.space
 *.pornhub.com
 *.pornhubpremium.com
 *.psfhosted.org
@@ -198,6 +218,8 @@
 *.redditstatic.com
 *.redtube.com
 *.reimu.net
+*.reuters.com
+*.reutersmedia.net
 *.rfa.org
 *.rfi.fr
 *.rmit.edu.au
@@ -213,6 +235,7 @@
 *.slideshare.net
 *.sourceforge.net
 *.speakerdeck.com
+*.springernature.com
 *.ssl-images-amazon.com
 *.sstatic.net
 *.stackexchange.com
@@ -231,6 +254,7 @@
 *.telesco.pe
 *.tensorflow.org
 *.theguardian.com
+*.theinitium.com
 *.thesaurus.com
 *.theverge.com
 *.time.com
@@ -245,6 +269,7 @@
 *.ubi.com
 *.ubisoft.com
 *.unicode.org
+*.unpkg.com
 *.unrealengine.com
 *.unsw.edu.au
 *.uraaka-joshi.com
